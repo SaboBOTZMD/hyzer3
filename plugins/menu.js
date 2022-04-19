@@ -236,7 +236,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 ┏━━〔 *_SewaBot?_* 〕━⬣
 ┃⬡ *PERMINGGU* = *Rp.3.000*
 ┃⬡ *PERBULAN*  = *Rp.5.000*
-┃⬡ *PERMANENT* = *Rp.10.000*
+┃⬡ *PERMANENT* = *Rp.7.000*
 ┗━━━━━━━━⬣`.trim(),
 
                         "footerText": "*_Created By Sabo_*",
