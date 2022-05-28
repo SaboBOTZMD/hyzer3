@@ -6,7 +6,7 @@ let handler = async (m, { conn }) => {
 ╠➥ *PERMANENT* : *Rp.12.000*
 ║
 ╠═〘 𝐏𝐄𝐌𝐁𝐀𝐘𝐀𝐑𝐀𝐍 〙 ═
-╠➥ Dana/Gopay/Pulsa
+╠➥ Dana/Gopay/Qris All Pay
 ║
 ╠═ Tertarik Untuk Beli Bot Ini?
 ╠➥Chat Owner
