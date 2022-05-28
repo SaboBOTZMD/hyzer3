@@ -3,10 +3,8 @@ let handler = async (m, { conn, text }) => {
   let ext= `
 ╭═════════════════
 ║╭──❉ [ GRUB BOT ] ❉──
-║│➸ *GROUP OWNER*
-║│➸ https://chat.whatsapp.com/HKNdgk6CV1i06b9ArQ8EjP
-║│➸ *GROUP BOT*
-║│➸ https://chat.whatsapp.com/KG1QdHJ3qkB5QlFW0KeNNJ
+║│➸ *GROUP OFFICIAL BOT*
+║│➸ https://chat.whatsapp.com/BXRH5ApRnbaHm6ULbPuG4d
 ║╰───────────────
 ╰══════════════════
 
