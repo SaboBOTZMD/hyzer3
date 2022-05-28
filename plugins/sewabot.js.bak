@@ -12,7 +12,6 @@ Silahkan klik pada "List Harga" untuk melihat list.
 Pembayaran:
 Dana   : 0821-4520-3493
 Gopay  : 0821-4520-3493
-Pulsa  : 0821-4520-3493
 `.trim()
     const button = {
         buttonText: 'List Harga',
