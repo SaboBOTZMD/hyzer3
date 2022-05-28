@@ -19,9 +19,9 @@ let handler = async(m, { conn }) => {
         buttonText: 'List Harga',
         description: kamisato,
         sections:  [{title: "Silahkan di pilih", rows: [
-        {title: 'PERMINGGU', description: "Rp.5.000\nSewa bot PERMINGGU.", rowId:".masuk"},
-        {title: 'PERBULAN', description: "Rp.8.000\nSewa bot PERBULAN.", rowId:".masuk"},
-        {title: 'PERMANENT', description: "Rp.12.000\nSewa bot PERMANENT.", rowId:".masuk"},
+        {title: 'Rp.5.000', description: "Sewabot Perminggu.", rowId:".masuk"},
+        {title: 'Rp.8.000', description: "Sewabot Perbulan.", rowId:".masuk"},
+        {title: 'Rp.12.000', description: "Sewabot Permanent.", rowId:".masuk"},
         {title: 'Owner', description: "Chat owner nya jika ada perlu.", rowId:".owner"},
         {title: 'Rules', description: "Rules Bot Sabo.", rowId:".snk"},
        ] }],
